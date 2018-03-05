@@ -1,12 +1,12 @@
 # Your code goes here!
-class Dog 
-  def name 
+class Dog
+  def name
     @name
-  end 
+  end
   def name=(new_name)
     @name = new_name
-  end 
+  end
   def bark
     puts "Woof!"
   end 
-end 
+end
